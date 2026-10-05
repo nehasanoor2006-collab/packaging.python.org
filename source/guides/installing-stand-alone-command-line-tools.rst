@@ -59,7 +59,7 @@ For example:
     installed package cowsay 6.1, installed using Python 3.12.2
     These apps are now globally available
       - cowsay
-  done! ✨ 🌟 ✨
+  done!
   $ cowsay -t moo
     ___
   < moo >

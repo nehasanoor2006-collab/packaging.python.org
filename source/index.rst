@@ -27,7 +27,7 @@ references to help you distribute and install Python packages with modern
 tools.
 
 This guide is maintained on `GitHub`_ by the :doc:`Python Packaging Authority <pypa:index>`. We
-happily accept :doc:`contributions and feedback <contribute>`.
+happily accept :doc:`contributions and feedback <contribute>`. 😊
 
 .. _GitHub: https://github.com/pypa/packaging.python.org
 

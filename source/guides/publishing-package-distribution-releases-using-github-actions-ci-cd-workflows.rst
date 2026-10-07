@@ -48,7 +48,7 @@ pre-existing project, if you are its owner.
    them in your PyPI and TestPyPI account settings in case you are replacing your old setup with the new one.
 
 
-Let's begin!
+Let's begin! 🚀
 
 1. Go to https://pypi.org/manage/account/publishing/.
 2. Fill in the name you wish to publish your new

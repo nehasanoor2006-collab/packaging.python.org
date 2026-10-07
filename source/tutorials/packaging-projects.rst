@@ -484,6 +484,7 @@ Next steps
 ----------
 
 **Congratulations, you've packaged and distributed a Python project!**
+✨ 🍰 ✨
 
 Keep in mind that this tutorial showed you how to upload your package to Test
 PyPI, which isn't a permanent storage. The Test system occasionally deletes
